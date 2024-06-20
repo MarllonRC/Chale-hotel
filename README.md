@@ -1,5 +1,5 @@
-Este projeto foi realizado como uma treino utilando ferrementas basicas como HTML e CSS.
+Este projeto foi desenvolvido como um exercício prático utilizando ferramentas básicas como HTML e CSS.
 
-Tem como objetivo ser uma pagina de apresentação para um Chalé.
+Ele foi criado com o objetivo de servir como página de apresentação para um chalé, simulando uma página inicial para um site maior.
 
-Veja você mesmo: https://marllonrc.github.io/Chale-hotel/
+Você pode conferir o resultado acessando o projeto através do link: Chalé Hotel.
